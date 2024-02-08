@@ -38,6 +38,7 @@ To run the application locally, follow these steps:
 4. Start the backend server by running `npm start` in the `backend` directory.
 5. Start the frontend server by running `npm run dev` in the `frontend` directory.
 6. Access the application in your web browser at `http://localhost:3000`.
+7. Frontend runs on port 3000 and Backend runs on port 3001. make sure to have them free when you start the servers.
 
 ## Contribution
 
