@@ -1,0 +1,80 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 10.99,
+    "stockQuantity": 50
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 9.99,
+    "stockQuantity": 40
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 12.50,
+    "stockQuantity": 30
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "price": 11.25,
+    "stockQuantity": 35
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 14.75,
+    "stockQuantity": 25
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "price": 29.99,
+    "stockQuantity": 20
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "price": 13.99,
+    "stockQuantity": 45
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "price": 14.50,
+    "stockQuantity": 40
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "price": 14.75,
+    "stockQuantity": 38
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "price": 15.25,
+    "stockQuantity": 36
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "price": 15.50,
+    "stockQuantity": 34
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "price": 15.75,
+    "stockQuantity": 32
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "price": 16.25,
+    "stockQuantity": 30
+  }
+]
